@@ -2,7 +2,7 @@
 # Open DAW
 
 > ### !NOTICE!  
-> **This project is under `development`.**  
+> **This project is just for `development` information.**  
 
 
 [![preview](./.github/preview.png)]()
@@ -11,8 +11,6 @@
     <img src="./.github/preview-2.png" width="45%">
     <img src="./.github/preview-3.png" width="45%">
 </div> 
-
-> The code found here is just a prototype.
 
 ## Resources
 You can find a basic demo [here](https://open-daw.com).  
